@@ -1,0 +1,24 @@
+[submodule "bundle/dirsettings.git"]
+	path = bundle/dirsettings.git
+	url = git@github.com:mantiz/vim-plugin-dirsettings.git
+[submodule "bundle/nerdcommenter.git"]
+	path = bundle/nerdcommenter.git
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/sparkup.git"]
+	path = bundle/sparkup.git
+	url = https://github.com/sophacles/vim-bundle-sparkup.git
+[submodule "bundle/vim-pathogen.git"]
+	path = bundle/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vim-rst-tables.git"]
+	path = bundle/vim-rst-tables.git
+	url = https://github.com/nvie/vim-rst-tables.git
+[submodule "bundle/whitespacetrail.git"]
+	path = bundle/whitespacetrail.git
+	url = git://github.com/jakobwesthoff/whitespacetrail.git
+[submodule "bundle/xptemplate.git"]
+	path = bundle/xptemplate.git
+	url = git://github.com/drmingdrmer/xptemplate.git
