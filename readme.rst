@@ -15,13 +15,13 @@ Installation guide
 
     git clone <github-url> ~/.vim
     cd ~/.vim
-    git submodule --init --recursive update
+    git submodule update --init --recursive
 
    Or::
 
     git clone <github-url> <whatever-path-you-prefer>
     cd <whatever-path-you-prefer>
-    git submodule --init --recursive update
+    git submodule update --init --recursive
     ln -s <whatever-path-you-prefer> ~/.vim
 
 2. Create a file ``.vimrc`` in your home directory with the following content::
