@@ -7,6 +7,7 @@
     endif
 
     execute 'set runtimepath+=' . s:localpath
+    execute 'set runtimepath+=' . s:localpath . '/after'
 " }}}
 
 " Load bundles with pathogen {{{
