@@ -22,3 +22,6 @@
 [submodule "bundle/xptemplate.git"]
 	path = bundle/xptemplate.git
 	url = git://github.com/drmingdrmer/xptemplate.git
+[submodule "bundle/vim-autocomplpop.git"]
+	path = bundle/vim-autocomplpop.git
+	url = git@github.com:mantiz/vim-plugin-autocomplpop.git
