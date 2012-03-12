@@ -28,3 +28,6 @@
 [submodule "bundle/vim-l9.git"]
 	path = bundle/vim-l9.git
 	url = git@github.com:mantiz/vim-plugin-l9.git
+[submodule "bundle/vim-bufexplorer.git"]
+	path = bundle/vim-bufexplorer.git
+	url = https://github.com/wzzrd/vim-bufexplorer.git
