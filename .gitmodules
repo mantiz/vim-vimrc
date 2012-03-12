@@ -37,3 +37,6 @@
 [submodule "bundle/vst.git"]
 	path = bundle/vst.git
 	url = https://github.com/vim-scripts/VST
+[submodule "bundle/powerline.git"]
+	path = bundle/powerline.git
+	url = https://github.com/Lokaltog/vim-powerline.git
