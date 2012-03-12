@@ -34,3 +34,6 @@
 [submodule "bundle/taskpaper.git"]
 	path = bundle/taskpaper.git
 	url = https://github.com/davidoc/taskpaper.vim.git
+[submodule "bundle/vst.git"]
+	path = bundle/vst.git
+	url = https://github.com/vim-scripts/VST
