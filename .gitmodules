@@ -31,3 +31,6 @@
 [submodule "bundle/vim-bufexplorer.git"]
 	path = bundle/vim-bufexplorer.git
 	url = https://github.com/wzzrd/vim-bufexplorer.git
+[submodule "bundle/taskpaper.git"]
+	path = bundle/taskpaper.git
+	url = https://github.com/davidoc/taskpaper.vim.git
