@@ -34,9 +34,21 @@
 [submodule "bundle/taskpaper.git"]
 	path = bundle/taskpaper.git
 	url = https://github.com/davidoc/taskpaper.vim.git
-[submodule "bundle/vst.git"]
-	path = bundle/vst.git
-	url = https://github.com/vim-scripts/VST
 [submodule "bundle/powerline.git"]
 	path = bundle/powerline.git
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/syntastic.git"]
+	path = bundle/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/Command-T.git"]
+	path = bundle/Command-T.git
+	url = https://github.com/wincent/Command-T.git
+[submodule "bundle/vim-ack.git"]
+	path = bundle/vim-ack.git
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-session.git"]
+	path = bundle/vim-session.git
+	url = https://github.com/xolox/vim-session.git
+[submodule "bundle/vim-vst.git"]
+	path = bundle/vim-vst.git
+	url = https://github.com/vim-scripts/VST
