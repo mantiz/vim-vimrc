@@ -52,3 +52,9 @@
 [submodule "bundle/vim-vst.git"]
 	path = bundle/vim-vst.git
 	url = https://github.com/vim-scripts/VST
+[submodule "bundle/vim-ctrlp.git"]
+	path = bundle/vim-ctrlp.git
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
