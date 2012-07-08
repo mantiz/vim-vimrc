@@ -1,4 +1,5 @@
 
 # Ignore ./local/ where custom (local) configuration is done
 /local/*
+/sessions/
 
