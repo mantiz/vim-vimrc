@@ -1,0 +1,3 @@
+
+syn keyword cStorageClass nullptr
+
